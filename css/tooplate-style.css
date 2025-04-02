@@ -156,6 +156,8 @@ img {
   margin: 0 40px 0;
   font-size: 1.5rem;
   font-weight: 400;
+  background-color: white;
+  border: solid, beige, 2px;
 }
 
 .tm-bg-dark {
@@ -205,6 +207,11 @@ img {
   color: #ffffff;
 }
 
+.tm-text-black {
+  color: black;
+  font-weight: bold;
+}
+
 .tm-text-gray-light {
   color: #999999;
 }
@@ -214,7 +221,7 @@ img {
 }
 
 .tm-bg-primary-dark {
-  background-color: #996666;
+  background-image: url("../img/leopard.jpg");
 }
 
 .tm-bg-secondary {
